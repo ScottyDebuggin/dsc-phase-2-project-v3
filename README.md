@@ -30,8 +30,8 @@ By answering these questions, stakeholders can make informed decisions about whi
  4.  [TheMovieDB](https://www.themoviedb.org/)
  5.  [The Numbers](https://www.the-numbers.com/)
 
-    SQL Database:
- 6. ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v3/main/movie_data_erd.jpeg)
+   SQL database
+ 6.![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v3/main/movie_data_erd.jpeg)
 
 ## Description of Data (formatted in 'Column_Name:Description')
 
@@ -133,6 +133,6 @@ After analyzing the movie datasets, the following insights can be drawn:
      2. The ideal runtime for popular movie results falls within 95-145 minutes. 
      3. Shorter titles, specifically those with just 1 word, tend to be more popular compared to longer titles.
 
-## Recommendation 
+## Final Recommendation 
 
 To produce a popular, profitable, and successful movie, a statistically informed method for a movie producer or shareholder, would be producing a Horror film, between 95-145 minutes, with a 1 word title.
